@@ -17,11 +17,11 @@ To run this simulation, the following software is required:
 This MATLAB implementation is based on the following research paper:  
 @article{taddese2018enhanced,  
 title={Enhanced real-time pose estimation for closed-loop robotic manipulation of magnetically actuated capsule endoscopes},  
-author={Taddese, Addisu Z and Slawinski, Piotr R and Pirotta, Marco and De Momi, Elena and Obstein, Keith L and Valdastri, Pietro}, 
-journal={The International Journal of Robotics Research}, 
-volume={37}, 
-number={8}, 
-pages={890--911}, 
-year={2018}, 
-publisher={SAGE Publications Sage UK: London, England} 
+author={Taddese, Addisu Z and Slawinski, Piotr R and Pirotta, Marco and De Momi, Elena and Obstein, Keith L and Valdastri, Pietro},  
+journal={The International Journal of Robotics Research},  
+volume={37},  
+number={8},  
+pages={890--911},  
+year={2018},  
+publisher={SAGE Publications Sage UK: London, England}  
 }
