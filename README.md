@@ -11,6 +11,11 @@ To run this simulation, the following software is required:
      [MathWorks Robotics System Toolbox](https://www.mathworks.com/products/robotics.html)
 2. **CoppeliaSim** (formerly known as V-REP)  
    - Used for the simulation of the robotic arm and magnetic interaction.
+  
+## Usage
+
+1. Open **CoppeliaSim** and run `akukamag_ipm.ttt`.  
+2. In **MATLAB**, run `EndoCtl_ver1.m` to start the control process.  
 
 ## Reference
 
