@@ -20,6 +20,7 @@ To run this simulation, the following software is required:
 ## Reference
 
 This MATLAB implementation is based on the following research paper:  
+
 @article{taddese2018enhanced,  
 title={Enhanced real-time pose estimation for closed-loop robotic manipulation of magnetically actuated capsule endoscopes},  
 author={Taddese, Addisu Z and Slawinski, Piotr R and Pirotta, Marco and De Momi, Elena and Obstein, Keith L and Valdastri, Pietro},  
@@ -30,3 +31,20 @@ pages={890--911},
 year={2018},  
 publisher={SAGE Publications Sage UK: London, England}  
 }
+
+## Further Reading  
+
+For research on **manipulator control under floating-base disturbances**, consider:  
+
+@article{xu2024confidence,  
+  title={Confidence-Aware Object Capture for a Manipulator Subject to Floating-Base Disturbances},  
+  author={Xu, Ruoyu and Jiang, Zixing and Liu, Beibei and Wang, Yuquan and Qian, Huihuan},  
+  journal={IEEE Transactions on Robotics},  
+  year={2024},  
+  publisher={IEEE}  
+}
+
+Although unrelated to this project, this paper explores techniques for robust robotic manipulation under uncertainty, which may be of interest to researchers working on robotic control.  
+
+
+
