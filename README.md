@@ -15,7 +15,11 @@ To run this simulation, the following software is required:
 ## Usage
 
 1. Open **CoppeliaSim** and run `akukamag_ipm.ttt`.  
-2. In **MATLAB**, run `EndoCtl_ver1.m` to start the control process.  
+2. In **MATLAB**, run `EndoCtl_ver1.m` to start the control process.
+
+## Demonstration
+
+![Simulation Preview](demo.gif)
 
 ## Reference
 
