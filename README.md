@@ -1,4 +1,4 @@
-# Magnetically Actuated Capsule Control – Reproduction of Pietro Valdastri's Work
+# Magnetically Actuated Capsule Control
 
 This project is a reproduction of the work conducted by **Pietro Valdastri's research group**. It simulates the control of a robotic arm to drive a capsule using magnetic fields. The simulation environment enables users to experiment with **magnetic capsule manipulation** in a controlled setting.
 
