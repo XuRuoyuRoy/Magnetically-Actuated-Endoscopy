@@ -128,7 +128,7 @@ while (dt<tp)
     x_ipm_cc = cal_ipm_opt(x_epm_c,x_ipm); % current ipm state in simulation
 
     % Three conditions
-    flagc=3;
+    flagc=1;
         % No block
     if flagc==1
         x_ipm_c=x_ipm_cc;
